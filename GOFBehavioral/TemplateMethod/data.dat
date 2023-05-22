@@ -1,0 +1,17 @@
+﻿[
+{
+	"Name" : "Péter",
+	"Age": 20,
+	"Job" : "portás"
+},
+{
+	"Name" : "Géza",
+	"Age": 40,
+	"Job" : "takarító"
+},
+{
+	"Name" : "Tamás",
+	"Age": 17,
+	"Job" : "tanár"
+}
+]

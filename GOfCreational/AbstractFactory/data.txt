@@ -1,0 +1,4 @@
+﻿Manager:Géza,1990.03.23|20
+Developer:Sándor,1992.10.20|true
+Trainee:Kati,1995.05.05|OE-NIK,20
+Tester:Péter,1992.03.03|Nunit,10
